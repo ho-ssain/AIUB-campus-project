@@ -1,0 +1,93 @@
+.clubs-wrapper {
+  // border: 1px solid blue;
+  padding: 1rem;
+}
+
+.p-name {
+  color: black;
+  text-decoration: underline;
+  text-transform: initial;
+  font-size: 22px;
+}
+
+.wrapper {
+  margin-top: 7rem;
+  // border: 1px solid tomato;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.wrapper button {
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px 0px rgba(17, 135, 167, 0.9);
+  -webkit-box-shadow: 4px 4px 5px 0px rgba(43, 143, 173, 0.9);
+  -moz-box-shadow: 4px 4px 5px 0px rgba(34, 142, 181, 0.9);
+  background: black;
+  color: white;
+}
+
+.wrapper button:hover {
+  cursor: pointer;
+  transform: scale(0.9);
+  border: 2px solid darkgray;
+}
+
+.wrapper button:active {
+  transform: scale(1);
+}
+
+.clubs {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  // border: 1px solid saddlebrown;
+  width: 100%;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1rem;
+  background: linear-gradient(
+    to right,
+    hsl(187, 100%, 54%),
+    hsl(199, 23%, 68%)
+  );
+  border-radius: 15px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.title h4:hover {
+  text-decoration: underline;
+}
+
+.title span:hover {
+  transform: scale(1.5);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1rem;
+  img {
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  justify-content: center;
+  align-items: center;
+}

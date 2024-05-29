@@ -1,0 +1,105 @@
+/*-------------------- footer -------------*/
+
+.footer {
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  border-radius: 0.5rem;
+  padding: 20px;
+}
+
+.footer-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-box p {
+  font-size: 0.938rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
+.social .bx {
+  padding: 10px;
+  background: var(--text-color);
+  color: white;
+  border-radius: 1rem;
+  font-size: 18px;
+}
+
+.social .bx:hover {
+  background: white;
+  color: var(--text-color);
+  transition: 0.2s all linear;
+  border: 1px solid #333;
+}
+
+.footer-box h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  text-decoration: underline;
+}
+
+.footer-box a {
+  color: darkgray;
+  opacity: 0.9;
+  margin-bottom: 1rem;
+}
+
+.footer-box a:hover {
+  color: var(--light-orange-color);
+}
+
+.footer-box form {
+  border-bottom: 1px solid var(--bg-color);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
+.footer-box form input {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.footer-logo img {
+  width: 30px;
+  height: 30px;
+}
+
+.footer-box form .bx {
+  font-size: 20px;
+  color: var(--light-orange-color);
+  cursor: pointer;
+}
+
+.footer-box form .bxs-envelope {
+  color: var(--green-color);
+}
+
+.copyright {
+  text-align: center;
+  padding: 20px;
+}
+
+.copyright a {
+  color: darkgray;
+  opacity: 0.8;
+}
+
+.copyright a:hover {
+  opacity: 1;
+  cursor: pointer;
+}

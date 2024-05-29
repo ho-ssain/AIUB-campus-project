@@ -1,0 +1,69 @@
+.culture-page {
+  padding-top: 8rem;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #0056b3; /* Blue color for the heading */
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.image-gallery img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.event-section {
+  margin-bottom: 40px;
+}
+
+.event-section h3 {
+  color: #034082; /* Blue color for sub-headings */
+  margin-bottom: 10px;
+  font-size: 14px;
+  padding: 0 1rem;
+}
+
+.event-section ul {
+  list-style-type: none;
+  padding: 0 1rem;
+  margin-bottom: 20px;
+}
+
+.event-section ul li {
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+  line-height: 1.2;
+}
+
+.event-section ul li:before {
+  content: "•";
+  color: #0056b3; /* Blue bullet points */
+  position: absolute;
+  left: 0;
+  font-size: 20px;
+  line-height: 1;
+}
+
+@media (max-width: 768px) {
+  .image-gallery img {
+    width: 100px;
+    height: 75px;
+  }
+}

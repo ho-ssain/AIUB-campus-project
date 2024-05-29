@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "AIUB Arts Club",
+    "img": "../../src/assets/imgs/aac.png",
+    "objective": "Established in 2006, the purpose of the AAC is to provide students with an opportunity to explore their creativity and artistic talents. The club aims to encourage students to explore their artistic talents, provide a platform for students to share their work with others, promote creativity and foster a sense of community among them.",
+    "activities": "The club engages in a variety of activities, ranging from art workshops, competitions, and exhibitions, organizing and participating within and outside of the university. From commemorating the International Mother Language Day on the 21st of February to celebrating the Bengali New Year on Pahela Baishakh every year, AAC collaborates to express their creativity through strokes, colors, and shades to create awe-inspiring pieces of art.",
+    "Membership": "Membership of AAC is open to students from all 4 Faculties of the university, who are interested in art. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 96 proactive members working in AAC."
+  },
+  {
+    "id": 2,
+    "name": "AIUB Business Club [ABC]",
+    "img": "../../src/assets/imgs/abc.jpg",
+    "objective": "ABC was established in 2009 as a learning organization with the aim of providing students with the opportunity to learn about business, develop their entrepreneurial skills, and network with other students and professionals. The club works to equip students with the knowledge and skills they need to succeed in the business world, enabling them to develop their entrepreneurial spirit and leadership capabilities, building a network of business professionals and organizations to connect with, learn from, and collaborate.",
+    "activities": "The club arranges numerous seminars, workshops, and competitions that explore new business ideas, case studies, presentation skills, leadership practices, career opportunities, etc. Their work enables students to undertake real-life simulations in managing people, market brands, handle finances, optimize logistics, and design initiatives.",
+    "Membership": "ABC is considered as a departmental club for the Faculty of Business Administration (FBA), but students from other Faculties are also encouraged to apply for the membership in order to enhance their business sense and capacities. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 77 proactive members working in ABC."
+  },
+  {
+    "id": 3,
+    "name": "AIUB Community of Engineering Students [ACES]",
+    "img": "../../src/assets/imgs/aces.png",
+    "objective": "ACES envisions to be a professional student organization offering welfare and services for engineering students and help the community both academically and skillfully. Since they began their journey in 2014, the club has focused on enabling the engineering community grow by working to expand engineering awareness through its programs and events, facilitate the professional advancement of all engineering students, develop the quality of life of disadvantaged communities through implementation of environmentally and economically sustainable engineering projects, and creating transformation experiences and responsible leaders.",
+    "activities": "ACES has always put in efforts to bridge the gap between the university and industries, provide opportunities for its members to make contributions to their local and global communities, honor outstanding engineering students who have excelled in character, leadership skills, and volunteer activities through competitive events, and conduct insightful seminars and workshops that will benefit the engineering students to build better and sustainable future for themselves and the society.",
+    "Membership": "ACES was established as a student organization where students from both the Faculty of Engineering (FE) and the Faculty of Science & Technology (FST) are encouraged to apply for the membership. Recruitment are conducted bi-annually, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 255 proactive members working at ACES."
+  },
+  {
+    "id": 4,
+    "name": "AIUB Computer Club [ACC]",
+    "img": "../../src/assets/imgs/acc-logo.jpg",
+    "objective": "ACC commenced in 2012 with the idea of creating a platform for students to spread out the light of technology, building skills in various sectors including Content Writing, Photojournalism, Video Editing, Event Organizing, Volunteering, Development, UI/UX Design, and Graphic Design, connect with a community of members, alumni, and faculties in order to learn about the demanding skills of the current and future professional domain, and organize programs that train and test their aptitudes in the field of computer science.",
+    "activities": "ACC is an infusion of a diverse set of interests existing within the students of science and IT, enhancing the educational learning with value-added trainings, workshops, and seminars for the members. Their events entail numerous activities like programming contests, gaming tournaments, idea/concept presentations, mobile, web, & desktop app showcases, and networking contests, collaborating with established brands of the tech industry like Microsoft, Oracle, Cisco, etc. ACC engages in several flagship events like the Computer Science Festival, Cyber-Gaming Fest, Jarvis, etc., besides their regular seminars and workshops. Keeping attuned with the industry trends, ACC collaborates with various organizations like Mozilla Bangladesh, Microsoft Student Partner, BASIS Student Forum.",
+    "Membership": "ACC is considered as a departmental club for the Faculty of Science (FST), but students from the Faculty of Engineering (FE) are also encouraged to apply for the membership. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 130 proactive members working at ACC."
+  },
+  {
+    "id": 5,
+    "name": "AIUB Drama Club",
+    "img": "../../src/assets/imgs/adc.png",
+    "objective": "ADC aims to provide students with the opportunity to explore their creative talents in theatre stage plays, since its inception in 2004. The club encourages students to explore their artistic talents, provide a forum for members to share their work, and foster a sense of community that can come together to bring stories of inspiration, tragedy, and heritage to life.",
+    "activities": "From acting classes, scriptwriting workshops, stagecraft sessions, ADC focuses on developing the caliber of its members, in order to create thought-provoking stage plays in a theatre format, emphasizing on historical events like the Liberation War and Bengali Language Movement, social issues like gender discrimination and social inequality, as well as comical satires and global events. Their performances have been showcased both within the university as well as externally in noteworthy institutions like the Bangladesh Shilpokala Academy over the years.",
+    "Membership": "Membership of ADC is open to students from all 4 Faculties of the university, who are interested in theatre and stage plays. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 30 proactive members working at ADC."
+  },
+  {
+    "id": 6,
+    "name": "AIUB English Club",
+    "img": "../../src//assets/imgs/aiub-english-club.png",
+    "objective": "Established in 2023, the purpose of the AIUB English Club (AEngC) is to provide students with an engaging environment where they can learn about the English language, its literary work, and its usage as a medium of communication. Through diverse activities and collaborative projects, members can work on practicing and improving their listening, speaking, reading, and writing skills, to build confidence and competence in public speaking, presentations, debates, creative writing, editorials, etc.",
+    "activities": "Besides their regular general meetings and member recruitment campaigns, the AEngC arranges interactive discussion sessions for its members, workshops focusing on various aspects speaking, reading, listening, and writing, public speaking events, collaborative writing projects, etc., geared towards encouraging and enabling students to proactively work on improving their dexterity on the English language.",
+    "Membership": "Although AEngC is considered as a departmental club of the Faculty of Arts & Social Sciences (FASS), students from all 4 Faculties of the university, who are interested in enhancing their skills and knowledge of the English language, are welcome to join AEngC. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 130 proactive members working at AEngC."
+  },
+  {
+    "id": 7,
+    "name": "AIUB Environment Club",
+    "img": "../../src/assets/imgs/aiub-environment-club.png",
+    "objective": "With the increasing changes of global warming, since its inception in 2023, the AIUB Environment Club (AEC) works towards protecting and preserving the environment for future generations, creating a world where humans live in harmony with nature. AEC aims to spread awareness about climate change to all the students, offering students the opportunity to serve their community and expand their skills in the process.",
+    "activities": "The club engages in initiatives through a nationwide network of various institutions working towards preserving and protecting the environment. Ranging from rallies to seminars and tree plantation campaigns, AEC focuses on educating the general student community, along with the general society, on crucial environmental issues, their impact on our lives, and how to resolve them in the long run. The club focuses on promoting awareness about environmental degradation including plastic production, excessive use of plastic made items, water and air pollution, deforestation, recycling and erosion in all the regions of Bangladesh.",
+    "Membership": "Membership of AEC is open to students from all 4 Faculties of the university, who are interested in working for the protection and preservation of the environment. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 100 proactive members working at AEC."
+  },
+  {
+    "id": 8,
+    "name": "AIUB FILM CLUB",
+    "img": "../../src/assets/imgs/afc-(1).jpg",
+    "objective": "Established in 2009, the purpose of the AIUB Film Club (AFC) is to provide a forum for students to discuss and learn about filmmaking. Their aim is to promote culture through the camera, sharing the creative talent of bringing stories to life through a network of people passionate about learning and engaging in the art of filmmaking.",
+    "activities": "AFC primarily works on creating short films covering various social issues, cultural aspects, and student life, while arranging film shows to as a form of recreational activity for the student community and to expose them to a broad spectrum of movies, ranging from Bengali, English, and even Korean. The club also conducts workshops for their members to better train them in the process of filmmaking, as directors, script writers, cinematographers, set designers, production managers, editors, actors, etc. AFC both organizes and participates in a number of different film festivals, competing in short films, where they have made several achievements with original stories, along with a number of different launch events and activations for the premier or screening of noteworthy releases of Bangladeshi cinema.",
+    "Membership": "Membership of AFC is open to students from all 4 Faculties of the university, who are interested in the art of filmmaking. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 80 proactive members working at AFC."
+  },
+  {
+    "id": 9,
+    "name": "AIUB Oratory Club [AOC]",
+    "img": "../../src/assets/imgs/aoc.png",
+    "objective": "The AIUB Oratory Club (AOC) was established in 2000 with the aim of providing students with the opportunity to develop their communications skills through the practice of debating. AOC focuses on equipping students with a platform to hone their critical thinking, research capabilities, articulation and diction in the format of oration.",
+    "activities": "Enabling and encouraging public speaking, AOC conducts a number of different workshops and competitions that are geared towards helping students develop their abilities of problem-solving, quick-thinking, and brainstorming. The club participates and organizes national debate championships, in both formats of Bengali and English, within the university as well as on a national level. AOC undertakes initiatives to improve aspects of presentation, negotiation, and leadership amongst its members and the general student body.",
+    "Membership": "Membership of AOC is open to students from all 4 Faculties of the university, who are interested in debate and public speaking. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 89 proactive members working at AOC."
+  },
+  {
+    "id": 10,
+    "name": "AIUB Performing Arts Club [APAC]",
+    "img": "../../src/assets/imgs/apac.png",
+    "objective": "Established in 1998, the AIUB Performing Arts Club (APAC) aims to provide students with a platform to channel their creativity through music and dance. APAC promotes our cultural heritage through traditional Bengali songs and dance forms, while expanding their exposure through experiencing and experimenting with a diverse set of foreign genres, encouraging young talents to pursue their dreams in performing arts.",
+    "activities": "APAC organizes and participates in all the cultural events of the university, arranging musical and dance performances in programs of their own initiatives as well as those of other student organizations, academic departments, and the university as a whole. The club also conduct workshops with established artists of the industry, along with festival celebrations like the Bengali New Year and even tribute events on the occasion of the Independence Day. The club encompasses a talented pool of singers, dancers, musicians, designers, reciters, and capable organizers with a history of achievements on and off the stage. APAC participates in external musical competitions while organizing their own flagship events, collaborating with numerous organizations, in order to encourage young musicians and dancers to develop their skills and uphold the music-rich culture in the global landscape.",
+    "Membership": "Membership of APAC is open to students from all 4 Faculties of the university, who are interested in music and dance. Recruitment are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 132 proactive members working at APAC."
+  }
+]

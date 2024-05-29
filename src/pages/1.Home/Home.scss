@@ -1,0 +1,278 @@
+.activities-container {
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  column-gap: 4rem;
+}
+
+.activities-img {
+  width: 350px;
+  border-radius: 1.5rem;
+  justify-self: center;
+}
+
+.activities-info {
+  grid-template-columns: repeat(3, 140px);
+  gap: 0.5rem;
+  margin-bottom: var(--mb-2);
+}
+
+.activities-box {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.75rem;
+  text-align: center;
+  padding: 1rem 1.25rem;
+}
+
+.activities-icon {
+  font-size: 1.5rem;
+  color: var(--title-color);
+  margin-bottom: var(--mb-0-5);
+}
+
+.activities-title {
+  font-size: var(--small-font-size);
+  font-weight: var(--font-medium);
+}
+
+.activities-subtitle {
+  font-size: var(--tiny-font-size);
+}
+
+.activities-description {
+  padding: 0 4rem 0 0;
+  margin-bottom: var(--mb-2-5);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  .activities-container {
+    grid-template-columns: 1fr;
+    row-gap: 2.5rem;
+  }
+
+  .activities-img {
+    width: 220px;
+  }
+
+  .activities-box {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .activities-data {
+    text-align: center;
+  }
+
+  .activities-info {
+    justify-content: center;
+  }
+  .activities-description {
+    padding: 0 5rem;
+    margin-bottom: 2rem;
+  }
+}
+
+/* For medium devices */
+
+@media screen and (max-width: 576px) {
+  .activities-info {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .activities-description {
+    padding: 0;
+  }
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+  .activities-info {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.facilities-container {
+  grid-template-columns: repeat(3, 350px);
+  column-gap: 3rem;
+  justify-content: center;
+}
+
+.f-content {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 2rem 4rem;
+  border-radius: 1.25rem;
+}
+
+.f-title {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  text-align: center;
+  margin-bottom: var(--mb-1-5);
+}
+
+.f-box {
+  display: flex;
+  justify-content: center;
+  column-gap: 1.5rem;
+}
+
+.f-group {
+  display: grid;
+  align-items: flex-start;
+  row-gap: 1rem;
+}
+
+.f-data {
+  display: flex;
+  column-gap: 0.5rem;
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.f .bx-badge-check {
+  font-size: 1rem;
+  color: var(--title-color);
+}
+
+.f-name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  line-height: 18px;
+}
+
+.f-level {
+  font-size: var(--tiny-font-size);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  .facilities-container {
+    grid-template-columns: 2fr;
+    row-gap: 2rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .facilities-container {
+    grid-template-columns: 1fr;
+  }
+  .f-content {
+    padding: 1.5rem;
+  }
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+  .f-box {
+    column-gap: 1.25rem;
+  }
+
+  .f-name {
+    font-size: var(--small-font-size);
+  }
+}
+
+//  clubs section
+
+.club-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.club-heading h1 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.club-heading span {
+  text-decoration: underline;
+}
+
+.clubs {
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.clubs-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, auto));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.clubs-container .box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 0.5rem;
+}
+
+.clubs-container .box img {
+  width: 100%;
+  height: 100px;
+  object-fit: contain;
+  object-position: center;
+}
+
+.clubs-container .box h2 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.clubs-container .box span {
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.clubs-container .box .bx {
+  padding: 10px;
+  background: #0192a9;
+  color: white;
+  border-radius: 5rem;
+  margin-top: 2rem;
+  position: absolute;
+  bottom: -8%;
+  display: none;
+}
+
+.clubs-container .box .bx:hover {
+  background: #111;
+  color: white;
+  transition: 0.2s all linear;
+}
+
+.clubs-container .box:hover .bx {
+  display: block;
+  transition: 0.2s all linear;
+}
+
+.box1 {
+  background: #fefeea44;
+}
+
+.box2 {
+  background: #fefeea44;
+}
+
+.box3 {
+  background: #fefeea44;
+}
+
+.box4 {
+  background: #fefeea44;
+}
+
+.box5 {
+  background: #fefeea44;
+}
