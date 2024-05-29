@@ -5,7 +5,7 @@ import art3 from "../../assets/imgs/art3.jpg";
 
 import sp1 from "../../assets/imgs/sp1.jpg";
 import sp2 from "../../assets/imgs/sp2.jpg";
-import sp3 from "../../assets/imgs/sp3.jpg";
+import sp3 from "../../assets/imgs/sp3.jpeg";
 
 function Activities() {
   return (
